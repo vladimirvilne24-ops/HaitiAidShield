@@ -1,6 +1,6 @@
 # HaitiAidShield: Decentralized Governance for Humanitarian Aid 🛡️
 **Author:** Vladimir Vilne  
-**GitHub:** [github.com/vladiv-yqlvb38](https://github.com/vladiv-yqlvb38)
+**GitHub:** https://github.com/vladimirvilne24-ops/HaitiAidShield.git
 **Technology:** Solidity | Polygon Blockchain | Multi-Sig Protocol  
 
 ## 📖 Executive Summary
