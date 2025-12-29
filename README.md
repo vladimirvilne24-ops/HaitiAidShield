@@ -20,5 +20,4 @@ Traditional aid systems rely on trust in human intermediaries. HaitiAidShield re
 
 ## ⚙️ Usage
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/vladiv-yqlvb38/HaitiAidShield.git](https://github.com/vladiv-yqlvb38/HaitiAidShield.git)
+  https://github.com/vladimirvilne24-ops/HaitiAidShield.git
