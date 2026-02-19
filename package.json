@@ -7,8 +7,10 @@
     "test": "npx hardhat test",
     "clean": "npx hardhat clean"
   },
-  "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^6.0.0",
+  "dependencies": {
     "hardhat": "^2.22.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.0.0"
   }
 }
