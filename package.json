@@ -1,5 +1,14 @@
 {
+  "name": "haitiaidshield",
+  "version": "1.0.0",
+  "description": "Security and aid coordination platform",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "clean": "npx hardhat clean"
+  },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^6.1.0"
+    "@nomicfoundation/hardhat-toolbox": "^6.0.0",
+    "hardhat": "^2.22.0"
   }
 }
